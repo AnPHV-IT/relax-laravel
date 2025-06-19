@@ -1,0 +1,8 @@
+.footer .contact-info p,
+.footer .product-list ul,
+.footer .guide-list ul,
+.footer .social-icons {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
